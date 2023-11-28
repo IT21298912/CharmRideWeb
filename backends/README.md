@@ -1,0 +1,21 @@
+
+# BackEnd
+
+![Desktop - 1](https://miro.medium.com/v2/resize:fit:904/1*kSiVfGxrMY2cdbZA6BilXw.png)
+
+PocketBase is a reliable backend solution, securely hosted on pocketHost.io! 🚀 Accessing this backend is seamless through the provided link. 😎 Simply log in with your credentials to unleash the full potential of your application. 💼 With features tailored for efficient development, data management, and improved performance, PocketBase is your trusted ally in app development. 📱🌐 Whether you're crafting a web app, mobile app, or anything in between, PocketBase has got you covered. Dive into the backend, harness the power of data, and watch your app thrive! 🌟🔐💡
+## 
+
+#### Backend Login Auths
+![Screenshot (366)](https://github.com/moshdev2213/CharmRides/assets/103739510/c9d349ad-c0dd-4dbf-a5c9-c7155d4d592f)
+
+```http
+  https://charm-ride.pockethost.io/_/?#/login
+```
+
+| Credentials | Value     | Description                |
+| :-------- | :------- | :------------------------- |
+| `Email` | `moshdev2213@gmail.com` | **Required**. Email For Backend Login |
+| `Password` | `xxxxxxx` | **Required**. Request Owner |
+
+
