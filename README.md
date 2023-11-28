@@ -4,6 +4,11 @@ Welcome to Charm Ride, your innovative solution for revolutionizing public trans
 
 ## Overview:
 Charm Ride is a cutting-edge web-based application designed to streamline public transport ticketing, making commuting hassle-free. Our system provides digital tokens to passengers, eliminating the need for manual fare collection and enhancing overall efficiency.
+## Technologies:
+ MongoDB for data storage 🗄️
+ Spring Boot for backend 🚀
+ PostMan for API testing 📡
+ Vue js for frontend 🚀
 
 ## Key Features:
 - 🎟️ **Digital Tokens:** Passengers receive digital tokens (smartcards, mobile QR codes, or barcode tickets) for seamless entry and exit on buses. The digital reader on buses ensures quick and secure validation.
