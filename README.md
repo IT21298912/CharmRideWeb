@@ -2,6 +2,8 @@
 
 Welcome to Charm Ride, your innovative solution for revolutionizing public transport ticketing in Sri Lanka! 🌐🚍
 
+![Add a heading](https://github.com/IT21298912/CharmRideWeb/assets/99547060/ea0a8ffe-bcc4-4488-ae80-d9ecc6ebddc0)
+
 ## Overview:
 Charm Ride is a cutting-edge web-based application designed to streamline public transport ticketing, making commuting hassle-free. Our system provides digital tokens to passengers, eliminating the need for manual fare collection and enhancing overall efficiency.
 
